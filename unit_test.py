@@ -1,3 +1,5 @@
+import unittest
+
 class TestStringMethods(unittest.TestCase):
 
     def test_patterns(self):
