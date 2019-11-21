@@ -5,10 +5,10 @@ An exampe input string :
   
 or "batbat" consists of "bat" twice.
 
-or "eueueueueueu" consists "eu" 6 times.
+or "eueueueu" consists "eu" 4 times.
 
 
-Write function to solve above problem. The function should output: "(<repeating seq>)^<no of repetitions>"
+Write function to solve above problem. The function should output: "( repeating seq )^ no of repetitions "
   
                   'foobar':'(foobar)^1',
   
