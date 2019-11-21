@@ -9,7 +9,7 @@ def pattern_formula(str) :
                 i=j+1 
                 break
             if ( j + i >= length) :
-            # matched till end..
+            # matched till end.. repeated j/i times. add 1 for first occurrence 
                 return "(%s)^%d" % (pattern,j/i+1)
     # did not match until end
     return "(%s)^1"%str  
