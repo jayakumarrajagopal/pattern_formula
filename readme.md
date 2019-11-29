@@ -19,7 +19,7 @@ Write function to solve the above problem. The function should output: "( repeat
                   'bbbbbbbbbb':'(b)^10'
 
 
-this provides O(n) solution for finding a smallest repeating pattern a string is made of.
+this python function provides O(n) solution for finding a smallest repeating pattern a string is made of.
 where n is length of string.
 
 test sample is there as well.
